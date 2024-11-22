@@ -6,6 +6,8 @@ st.markdown("""# This is a header
 ## This is a sub header
 This is text""")
 
+plot(dataframe)
+
 st.text("hello this is text")
 
 df = pd.DataFrame({
